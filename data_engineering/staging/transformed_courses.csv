@@ -1,0 +1,101 @@
+id,title,duration,difficulty,rating,domain
+1,Cloud Computing,8 hours,advanced,3.3,Data Science
+2,Web Development,42 hours,beginner,3.7,Web Development
+3,Intro to Programming,31 hours,beginner,1.0,Computer Science
+4,Cloud Computing,84 hours,advanced,1.6,Computer Science
+5,Data Structures,72 hours,intermediate,3.8,Cloud Computing
+6,Data Structures,14 hours,intermediate,3.2,Data Science
+7,Intro to Programming,96 hours,intermediate,3.3,Data Science
+8,Data Structures,98 hours,beginner,1.1,Data Science
+9,Machine Learning,61 hours,beginner,1.1,Web Development
+10,Intro to Programming,97 hours,advanced,4.1,Web Development
+11,Cloud Computing,66 hours,intermediate,4.0,Cloud Computing
+12,Intro to Programming,46 hours,advanced,1.8,Web Development
+13,Cloud Computing,10 hours,beginner,4.4,Data Science
+14,Web Development,41 hours,advanced,3.8,Cloud Computing
+15,Machine Learning,71 hours,beginner,4.8,Computer Science
+16,Machine Learning,62 hours,advanced,4.7,Computer Science
+17,Web Development,26 hours,advanced,5.0,Cloud Computing
+18,Web Development,57 hours,intermediate,4.8,Web Development
+19,Cloud Computing,67 hours,beginner,2.4,Computer Science
+20,Web Development,49 hours,advanced,1.8,Data Science
+21,Data Structures,88 hours,advanced,3.1,Data Science
+22,Cloud Computing,48 hours,advanced,1.9,Cloud Computing
+23,Intro to Programming,49 hours,advanced,3.3,Data Science
+24,Intro to Programming,77 hours,advanced,2.1,Computer Science
+25,Data Structures,37 hours,intermediate,2.0,Data Science
+26,Intro to Programming,41 hours,intermediate,4.0,Cloud Computing
+27,Intro to Programming,78 hours,advanced,2.3,Data Science
+28,Cloud Computing,55 hours,intermediate,2.1,Cloud Computing
+29,Machine Learning,9 hours,intermediate,2.7,Web Development
+30,Web Development,34 hours,intermediate,1.4,Data Science
+31,Intro to Programming,21 hours,intermediate,4.4,Web Development
+32,Intro to Programming,70 hours,advanced,1.4,Data Science
+33,Cloud Computing,79 hours,beginner,2.2,Web Development
+34,Intro to Programming,36 hours,advanced,4.0,Cloud Computing
+35,Intro to Programming,37 hours,intermediate,4.8,Cloud Computing
+36,Web Development,90 hours,intermediate,3.6,Web Development
+37,Intro to Programming,56 hours,advanced,4.3,Computer Science
+38,Intro to Programming,96 hours,advanced,4.4,Cloud Computing
+39,Machine Learning,84 hours,beginner,1.6,Computer Science
+40,Data Structures,83 hours,advanced,4.2,Computer Science
+41,Cloud Computing,83 hours,beginner,3.5,Cloud Computing
+42,Cloud Computing,30 hours,intermediate,1.8,Data Science
+43,Data Structures,31 hours,intermediate,3.1,Web Development
+44,Cloud Computing,100 hours,advanced,4.5,Cloud Computing
+45,Machine Learning,73 hours,beginner,2.4,Data Science
+46,Cloud Computing,40 hours,intermediate,2.8,Cloud Computing
+47,Intro to Programming,47 hours,beginner,2.5,Cloud Computing
+48,Intro to Programming,90 hours,beginner,4.6,Web Development
+49,Cloud Computing,91 hours,advanced,1.6,Data Science
+50,Cloud Computing,98 hours,intermediate,1.9,Web Development
+51,Data Structures,55 hours,advanced,3.9,Cloud Computing
+52,Machine Learning,7 hours,intermediate,1.6,Cloud Computing
+53,Machine Learning,43 hours,beginner,2.5,Cloud Computing
+54,Intro to Programming,18 hours,beginner,3.8,Data Science
+55,Data Structures,93 hours,beginner,4.7,Cloud Computing
+56,Cloud Computing,82 hours,intermediate,1.7,Computer Science
+57,Intro to Programming,100 hours,beginner,2.3,Computer Science
+58,Web Development,29 hours,beginner,4.5,Cloud Computing
+59,Machine Learning,91 hours,advanced,4.4,Web Development
+60,Intro to Programming,37 hours,beginner,2.5,Data Science
+61,Machine Learning,36 hours,intermediate,2.2,Web Development
+62,Cloud Computing,53 hours,advanced,4.0,Computer Science
+63,Data Structures,46 hours,beginner,1.3,Computer Science
+64,Machine Learning,42 hours,advanced,3.5,Computer Science
+65,Machine Learning,52 hours,advanced,3.8,Web Development
+66,Machine Learning,37 hours,intermediate,3.9,Computer Science
+67,Cloud Computing,52 hours,beginner,2.1,Web Development
+68,Web Development,63 hours,beginner,4.5,Cloud Computing
+69,Data Structures,69 hours,advanced,1.0,Computer Science
+70,Web Development,95 hours,advanced,2.3,Computer Science
+71,Cloud Computing,50 hours,intermediate,1.3,Data Science
+72,Machine Learning,35 hours,intermediate,4.9,Computer Science
+73,Intro to Programming,9 hours,advanced,4.0,Data Science
+74,Intro to Programming,95 hours,beginner,3.4,Web Development
+75,Intro to Programming,21 hours,beginner,2.6,Data Science
+76,Machine Learning,42 hours,beginner,4.4,Computer Science
+77,Machine Learning,94 hours,advanced,4.8,Web Development
+78,Machine Learning,17 hours,beginner,2.5,Cloud Computing
+79,Web Development,59 hours,advanced,2.5,Data Science
+80,Intro to Programming,50 hours,advanced,2.6,Computer Science
+81,Machine Learning,19 hours,intermediate,1.4,Web Development
+82,Machine Learning,72 hours,beginner,1.3,Web Development
+83,Intro to Programming,14 hours,beginner,2.2,Web Development
+84,Machine Learning,79 hours,intermediate,2.6,Cloud Computing
+85,Data Structures,84 hours,intermediate,1.0,Cloud Computing
+86,Machine Learning,95 hours,advanced,3.3,Web Development
+87,Machine Learning,14 hours,advanced,2.7,Cloud Computing
+88,Web Development,20 hours,beginner,3.4,Cloud Computing
+89,Data Structures,80 hours,intermediate,1.5,Web Development
+90,Machine Learning,42 hours,beginner,1.6,Cloud Computing
+91,Cloud Computing,34 hours,beginner,1.8,Data Science
+92,Web Development,77 hours,beginner,3.9,Cloud Computing
+93,Web Development,85 hours,intermediate,4.7,Data Science
+94,Web Development,53 hours,intermediate,1.3,Web Development
+95,Cloud Computing,76 hours,beginner,1.2,Computer Science
+96,Web Development,8 hours,intermediate,3.5,Data Science
+97,Cloud Computing,31 hours,advanced,2.1,Cloud Computing
+98,Data Structures,88 hours,advanced,4.2,Data Science
+99,Cloud Computing,43 hours,intermediate,4.4,Web Development
+100,Web Development,41 hours,advanced,3.8,Data Science

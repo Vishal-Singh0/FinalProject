@@ -1,0 +1,51 @@
+id,domain,title,courses,duration0,difficulty
+1,Web Development,Learning Path 1,"1,2,3,4,5",10,beginner
+2,Data Science,Learning Path 2,"1,2,3,4,5",10,intermediate
+3,Machine Learning,Learning Path 3,"2,3,5",10,advanced
+4,Cybersecurity,Learning Path 4,"2,4,5",10,beginner
+5,Cloud Computing,Learning Path 5,"1,2,3",10,intermediate
+6,Web Development,Learning Path 6,"1,4,5,7,8",10,advanced
+7,Data Science,Learning Path 7,"1,2,3,4,5",10,beginner
+8,Machine Learning,Learning Path 8,"2,3,5,8,10",10,intermediate
+9,Cybersecurity,Learning Path 9,"3,4,5,6,9",10,advanced
+10,Cloud Computing,Learning Path 10,"1,2,3,7",10,beginner
+11,Web Development,Learning Path 11,"1,2,4,5",10,intermediate
+12,Data Science,Learning Path 12,"1,3,5,8",10,advanced
+13,Machine Learning,Learning Path 13,"1,4,6,8",10,beginner
+14,Cybersecurity,Learning Path 14,"1,3,4,5",10,intermediate
+15,Cloud Computing,Learning Path 15,"1,2,3,4",10,advanced
+16,Web Development,Learning Path 16,"2,5,6,8",10,beginner
+17,Data Science,Learning Path 17,"1,2,4,7",10,intermediate
+18,Machine Learning,Learning Path 18,"1,2,3,8",10,advanced
+19,Cybersecurity,Learning Path 19,"2,4,6,8",10,beginner
+20,Cloud Computing,Learning Path 20,"2,3,5",10,intermediate
+21,Web Development,Learning Path 21,"1,3,4,5",10,advanced
+22,Data Science,Learning Path 22,"1,2,5,6",10,beginner
+23,Machine Learning,Learning Path 23,"2,3,6,7",10,intermediate
+24,Cybersecurity,Learning Path 24,"1,2,4,5",10,advanced
+25,Cloud Computing,Learning Path 25,"2,3,5,6",10,beginner
+26,Web Development,Learning Path 26,"1,2,4,5",10,intermediate
+27,Data Science,Learning Path 27,"2,3,5,7,11,14,50",10,advanced
+28,Machine Learning,Learning Path 28,"1,3,4,6,9,12,35",10,beginner
+29,Cybersecurity,Learning Path 29,"1,2,5,7,10,12,80",10,intermediate
+30,Cloud Computing,Learning Path 30,"2,4,5,6,10,14,60",10,advanced
+31,Web Development,Learning Path 31,"2,3,4,5,8,10,20",10,beginner
+32,Data Science,Learning Path 32,"1,2,3,7,9,11,55",10,intermediate
+33,Machine Learning,Learning Path 33,"2,3,6,8,10,14,70",10,advanced
+34,Cybersecurity,Learning Path 34,"2,4,5,6,9,12,40",10,beginner
+35,Cloud Computing,Learning Path 35,"1,3,5,7,9,13,90",10,intermediate
+36,Web Development,Learning Path 36,"1,2,4,5,8,12,65",10,advanced
+37,Data Science,Learning Path 37,"1,3,5,6,10,14,50",10,beginner
+38,Machine Learning,Learning Path 38,"1,3,5,7,11,16,85",10,intermediate
+39,Cybersecurity,Learning Path 39,"2,4,6,8,10,12,30",10,advanced
+40,Cloud Computing,Learning Path 40,"1,2,3,5,9,14,70",10,beginner
+41,Web Development,Learning Path 41,"2,3,4,5,8,10,40",10,intermediate
+42,Data Science,Learning Path 42,"1,2,4,7,9,12,85",10,advanced
+43,Machine Learning,Learning Path 43,"2,3,5,6,10,14,75",10,beginner
+44,Cybersecurity,Learning Path 44,"1,2,4,5,8,10,50",10,intermediate
+45,Cloud Computing,Learning Path 45,"2,3,6,7,9,11,65",10,advanced
+46,Web Development,Learning Path 46,"2,4,5,6,10,12,30",10,beginner
+47,Data Science,Learning Path 47,"1,2,3,8,10,15,90",10,intermediate
+48,Machine Learning,Learning Path 48,"2,4,5,7,10,12,75",10,advanced
+49,Cybersecurity,Learning Path 49,"1,3,5,6,9,11,40",10,beginner
+50,Cloud Computing,Learning Path 50,"2,3,4,5,10,14,60",10,intermediate

@@ -1,0 +1,49 @@
+id_x,user_id,course_id,enrollment_date,completion_date,id_y,name,id,title,duration,difficulty,rating,domain
+1,19,90,2024-06-26,2024-07-15,19,Mia Wong,90,Machine Learning,42 hours,beginner,1.6,Cloud Computing
+4,38,55,2023-11-29,,38,Frank Underwood,55,Data Structures,93 hours,beginner,4.7,Cloud Computing
+6,14,42,2023-10-29,2023-12-16,14,Hannah Lee,42,Cloud Computing,30 hours,intermediate,1.8,Data Science
+8,44,24,2024-08-03,,44,Luke Skywalker,24,Intro to Programming,77 hours,advanced,2.1,Computer Science
+9,53,56,2024-06-12,,53,Uma Thurman,56,Cloud Computing,82 hours,intermediate,1.7,Computer Science
+10,40,30,2024-06-26,,40,Hank Azaria,30,Web Development,34 hours,intermediate,1.4,Data Science
+14,37,23,2024-04-08,,37,Elena Gilbert,23,Intro to Programming,49 hours,advanced,3.3,Data Science
+15,46,37,2024-06-14,,46,Ned Stark,37,Intro to Programming,56 hours,advanced,4.3,Computer Science
+17,46,8,2024-01-05,,46,Ned Stark,8,Data Structures,98 hours,beginner,1.1,Data Science
+18,39,25,2024-04-27,2024-05-20,39,Grace Hopper,25,Data Structures,37 hours,intermediate,2.0,Data Science
+20,39,73,2024-01-10,,39,Grace Hopper,73,Intro to Programming,9 hours,advanced,4.0,Data Science
+21,31,59,2023-12-19,,31,Yasmine Bleeth,59,Machine Learning,91 hours,advanced,4.4,Web Development
+25,18,67,2023-10-12,2024-01-30,18,Liam Neeson,67,Cloud Computing,52 hours,beginner,2.1,Web Development
+27,13,87,2023-12-02,2023-12-13,13,George Martin,87,Machine Learning,14 hours,advanced,2.7,Cloud Computing
+28,39,69,2024-03-24,2024-04-30,39,Grace Hopper,69,Data Structures,69 hours,advanced,1.0,Computer Science
+30,21,1,2024-01-06,,21,Owen Wilson,1,Cloud Computing,8 hours,advanced,3.3,Data Science
+32,47,64,2024-07-04,2024-08-02,47,Olivia Benson,64,Machine Learning,42 hours,advanced,3.5,Computer Science
+36,38,61,2024-09-24,2025-02-26,38,Frank Underwood,61,Machine Learning,36 hours,intermediate,2.2,Web Development
+38,8,47,2024-01-21,,8,Alice Williams,47,Intro to Programming,47 hours,beginner,2.5,Cloud Computing
+39,6,94,2024-05-16,,6,Jane Smith,94,Web Development,53 hours,intermediate,1.3,Web Development
+45,49,71,2024-09-19,2024-12-31,49,Quinn Fabray,71,Cloud Computing,50 hours,intermediate,1.3,Data Science
+46,50,35,2023-12-04,,50,Rick Grimes,35,Intro to Programming,37 hours,intermediate,4.8,Cloud Computing
+51,18,49,2024-05-07,2024-06-07,18,Liam Neeson,49,Cloud Computing,91 hours,advanced,1.6,Data Science
+52,13,33,2024-01-15,,13,George Martin,33,Cloud Computing,79 hours,beginner,2.2,Web Development
+55,39,72,2024-09-11,2024-11-07,39,Grace Hopper,72,Machine Learning,35 hours,intermediate,4.9,Computer Science
+56,11,86,2024-07-03,2024-09-13,11,Edward Elric,86,Machine Learning,95 hours,advanced,3.3,Web Development
+57,52,81,2024-02-28,2024-04-22,52,Tony Stark,81,Machine Learning,19 hours,intermediate,1.4,Web Development
+61,17,5,2024-02-17,2024-05-05,17,Karen Walker,5,Data Structures,72 hours,intermediate,3.8,Cloud Computing
+63,33,21,2024-03-20,,33,Aiden Pearce,21,Data Structures,88 hours,advanced,3.1,Data Science
+65,53,77,2024-05-04,,53,Uma Thurman,77,Machine Learning,94 hours,advanced,4.8,Web Development
+67,50,95,2024-06-12,2024-11-28,50,Rick Grimes,95,Cloud Computing,76 hours,beginner,1.2,Computer Science
+69,16,69,2024-04-12,,16,Julia Child,69,Data Structures,69 hours,advanced,1.0,Computer Science
+71,15,48,2023-12-02,,15,Isaac Asimov,48,Intro to Programming,90 hours,beginner,4.6,Web Development
+72,52,51,2024-05-31,2024-07-27,52,Tony Stark,51,Data Structures,55 hours,advanced,3.9,Cloud Computing
+74,14,80,2023-11-29,,14,Hannah Lee,80,Intro to Programming,50 hours,advanced,2.6,Computer Science
+75,32,23,2024-09-08,,32,Zach Galifianakis,23,Intro to Programming,49 hours,advanced,3.3,Data Science
+81,31,52,2024-03-31,2024-05-01,31,Yasmine Bleeth,52,Machine Learning,7 hours,intermediate,1.6,Cloud Computing
+82,20,51,2023-11-28,2023-12-12,20,Nora Roberts,51,Data Structures,55 hours,advanced,3.9,Cloud Computing
+83,32,36,2024-04-07,,32,Zach Galifianakis,36,Web Development,90 hours,intermediate,3.6,Web Development
+84,49,50,2023-12-21,,49,Quinn Fabray,50,Cloud Computing,98 hours,intermediate,1.9,Web Development
+85,34,67,2024-08-26,,34,Bella Swan,67,Cloud Computing,52 hours,beginner,2.1,Web Development
+86,33,84,2024-01-25,2024-07-03,33,Aiden Pearce,84,Machine Learning,79 hours,intermediate,2.6,Cloud Computing
+89,27,17,2024-08-23,,27,Ursula K. Le Guin,17,Web Development,26 hours,advanced,5.0,Cloud Computing
+91,40,62,2024-03-28,,40,Hank Azaria,62,Cloud Computing,53 hours,advanced,4.0,Computer Science
+94,17,73,2024-07-14,,17,Karen Walker,73,Intro to Programming,9 hours,advanced,4.0,Data Science
+96,54,87,2023-10-12,,54,Vera Wang,87,Machine Learning,14 hours,advanced,2.7,Cloud Computing
+97,11,16,2024-08-26,,11,Edward Elric,16,Machine Learning,62 hours,advanced,4.7,Computer Science
+98,23,75,2024-07-28,,23,Quincy Jones,75,Intro to Programming,21 hours,beginner,2.6,Data Science

@@ -1,0 +1,101 @@
+id,title,description,duration,difficulty,rating,domain
+1,Cloud Computing,Build modern web applications.,8,advanced,3.3,Data Science
+2,Web Development,Learn the basics of programming.,42,beginner,3.7,Web Development
+3,Intro to Programming,Learn the basics of programming.,31,beginner,1.0,Computer Science
+4,Cloud Computing,Dive deep into data structures.,84,advanced,1.6,Computer Science
+5,Data Structures,Introduction to cloud technologies.,72,intermediate,3.8,Cloud Computing
+6,Data Structures,Understand the fundamentals of Machine Learning.,14,intermediate,3.2,Data Science
+7,Intro to Programming,Dive deep into data structures.,96,intermediate,3.3,Data Science
+8,Data Structures,Introduction to cloud technologies.,98,beginner,1.1,Data Science
+9,Machine Learning,Learn the basics of programming.,61,beginner,1.1,Web Development
+10,Intro to Programming,Build modern web applications.,97,advanced,4.1,Web Development
+11,Cloud Computing,Build modern web applications.,66,intermediate,4.0,Cloud Computing
+12,Intro to Programming,Build modern web applications.,46,advanced,1.8,Web Development
+13,Cloud Computing,Dive deep into data structures.,10,beginner,4.4,Data Science
+14,Web Development,Understand the fundamentals of Machine Learning.,41,advanced,3.8,Cloud Computing
+15,Machine Learning,Understand the fundamentals of Machine Learning.,71,beginner,4.8,Computer Science
+16,Machine Learning,Build modern web applications.,62,advanced,4.7,Computer Science
+17,Web Development,Learn the basics of programming.,26,advanced,5.0,Cloud Computing
+18,Web Development,Build modern web applications.,57,intermediate,4.8,Web Development
+19,Cloud Computing,Understand the fundamentals of Machine Learning.,67,beginner,2.4,Computer Science
+20,Web Development,Dive deep into data structures.,49,advanced,1.8,Data Science
+21,Data Structures,Introduction to cloud technologies.,88,advanced,3.1,Data Science
+22,Cloud Computing,Dive deep into data structures.,48,advanced,1.9,Cloud Computing
+23,Intro to Programming,Understand the fundamentals of Machine Learning.,49,advanced,3.3,Data Science
+24,Intro to Programming,Dive deep into data structures.,77,advanced,2.1,Computer Science
+25,Data Structures,Learn the basics of programming.,37,intermediate,2.0,Data Science
+26,Intro to Programming,Dive deep into data structures.,41,intermediate,4.0,Cloud Computing
+27,Intro to Programming,Dive deep into data structures.,78,advanced,2.3,Data Science
+28,Cloud Computing,Understand the fundamentals of Machine Learning.,55,intermediate,2.1,Cloud Computing
+29,Machine Learning,Build modern web applications.,9,intermediate,2.7,Web Development
+30,Web Development,Dive deep into data structures.,34,intermediate,1.4,Data Science
+31,Intro to Programming,Dive deep into data structures.,21,intermediate,4.4,Web Development
+32,Intro to Programming,Dive deep into data structures.,70,advanced,1.4,Data Science
+33,Cloud Computing,Build modern web applications.,79,beginner,2.2,Web Development
+34,Intro to Programming,Learn the basics of programming.,36,advanced,4.0,Cloud Computing
+35,Intro to Programming,Understand the fundamentals of Machine Learning.,37,intermediate,4.8,Cloud Computing
+36,Web Development,Understand the fundamentals of Machine Learning.,90,intermediate,3.6,Web Development
+37,Intro to Programming,Learn the basics of programming.,56,advanced,4.3,Computer Science
+38,Intro to Programming,Learn the basics of programming.,96,advanced,4.4,Cloud Computing
+39,Machine Learning,Learn the basics of programming.,84,beginner,1.6,Computer Science
+40,Data Structures,Learn the basics of programming.,83,advanced,4.2,Computer Science
+41,Cloud Computing,Learn the basics of programming.,83,beginner,3.5,Cloud Computing
+42,Cloud Computing,Dive deep into data structures.,30,intermediate,1.8,Data Science
+43,Data Structures,Understand the fundamentals of Machine Learning.,31,intermediate,3.1,Web Development
+44,Cloud Computing,Introduction to cloud technologies.,100,advanced,4.5,Cloud Computing
+45,Machine Learning,Dive deep into data structures.,73,beginner,2.4,Data Science
+46,Cloud Computing,Build modern web applications.,40,intermediate,2.8,Cloud Computing
+47,Intro to Programming,Understand the fundamentals of Machine Learning.,47,beginner,2.5,Cloud Computing
+48,Intro to Programming,Learn the basics of programming.,90,beginner,4.6,Web Development
+49,Cloud Computing,Learn the basics of programming.,91,advanced,1.6,Data Science
+50,Cloud Computing,Dive deep into data structures.,98,intermediate,1.9,Web Development
+51,Data Structures,Dive deep into data structures.,55,advanced,3.9,Cloud Computing
+52,Machine Learning,Build modern web applications.,7,intermediate,1.6,Cloud Computing
+53,Machine Learning,Build modern web applications.,43,beginner,2.5,Cloud Computing
+54,Intro to Programming,Build modern web applications.,18,beginner,3.8,Data Science
+55,Data Structures,Build modern web applications.,93,beginner,4.7,Cloud Computing
+56,Cloud Computing,Understand the fundamentals of Machine Learning.,82,intermediate,1.7,Computer Science
+57,Intro to Programming,Learn the basics of programming.,100,beginner,2.3,Computer Science
+58,Web Development,Learn the basics of programming.,29,beginner,4.5,Cloud Computing
+59,Machine Learning,Introduction to cloud technologies.,91,advanced,4.4,Web Development
+60,Intro to Programming,Learn the basics of programming.,37,beginner,2.5,Data Science
+61,Machine Learning,Introduction to cloud technologies.,36,intermediate,2.2,Web Development
+62,Cloud Computing,Dive deep into data structures.,53,advanced,4.0,Computer Science
+63,Data Structures,Understand the fundamentals of Machine Learning.,46,beginner,1.3,Computer Science
+64,Machine Learning,Learn the basics of programming.,42,advanced,3.5,Computer Science
+65,Machine Learning,Understand the fundamentals of Machine Learning.,52,advanced,3.8,Web Development
+66,Machine Learning,Learn the basics of programming.,37,intermediate,3.9,Computer Science
+67,Cloud Computing,Learn the basics of programming.,52,beginner,2.1,Web Development
+68,Web Development,Learn the basics of programming.,63,beginner,4.5,Cloud Computing
+69,Data Structures,Dive deep into data structures.,69,advanced,1.0,Computer Science
+70,Web Development,Learn the basics of programming.,95,advanced,2.3,Computer Science
+71,Cloud Computing,Understand the fundamentals of Machine Learning.,50,intermediate,1.3,Data Science
+72,Machine Learning,Understand the fundamentals of Machine Learning.,35,intermediate,4.9,Computer Science
+73,Intro to Programming,Understand the fundamentals of Machine Learning.,9,advanced,4.0,Data Science
+74,Intro to Programming,Learn the basics of programming.,95,beginner,3.4,Web Development
+75,Intro to Programming,Learn the basics of programming.,21,beginner,2.6,Data Science
+76,Machine Learning,Dive deep into data structures.,42,beginner,4.4,Computer Science
+77,Machine Learning,Build modern web applications.,94,advanced,4.8,Web Development
+78,Machine Learning,Dive deep into data structures.,17,beginner,2.5,Cloud Computing
+79,Web Development,Build modern web applications.,59,advanced,2.5,Data Science
+80,Intro to Programming,Introduction to cloud technologies.,50,advanced,2.6,Computer Science
+81,Machine Learning,Build modern web applications.,19,intermediate,1.4,Web Development
+82,Machine Learning,Learn the basics of programming.,72,beginner,1.3,Web Development
+83,Intro to Programming,Understand the fundamentals of Machine Learning.,14,beginner,2.2,Web Development
+84,Machine Learning,Understand the fundamentals of Machine Learning.,79,intermediate,2.6,Cloud Computing
+85,Data Structures,Understand the fundamentals of Machine Learning.,84,intermediate,1.0,Cloud Computing
+86,Machine Learning,Learn the basics of programming.,95,advanced,3.3,Web Development
+87,Machine Learning,Build modern web applications.,14,advanced,2.7,Cloud Computing
+88,Web Development,Learn the basics of programming.,20,beginner,3.4,Cloud Computing
+89,Data Structures,Dive deep into data structures.,80,intermediate,1.5,Web Development
+90,Machine Learning,Learn the basics of programming.,42,beginner,1.6,Cloud Computing
+91,Cloud Computing,Understand the fundamentals of Machine Learning.,34,beginner,1.8,Data Science
+92,Web Development,Introduction to cloud technologies.,77,beginner,3.9,Cloud Computing
+93,Web Development,Learn the basics of programming.,85,intermediate,4.7,Data Science
+94,Web Development,Dive deep into data structures.,53,intermediate,1.3,Web Development
+95,Cloud Computing,Introduction to cloud technologies.,76,beginner,1.2,Computer Science
+96,Web Development,Dive deep into data structures.,8,intermediate,3.5,Data Science
+97,Cloud Computing,Build modern web applications.,31,advanced,2.1,Cloud Computing
+98,Data Structures,Dive deep into data structures.,88,advanced,4.2,Data Science
+99,Cloud Computing,Learn the basics of programming.,43,intermediate,4.4,Web Development
+100,Web Development,Dive deep into data structures.,41,advanced,3.8,Data Science
