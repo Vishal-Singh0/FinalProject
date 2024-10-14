@@ -1,3 +1,7 @@
+```
+
+Here’s a revised version of your README file with a table of contents containing hyperlinks to the respective sections:
+
 Employee Learning Management System (ELMS)
 Overview
 The Employee Learning Management System (ELMS) is a comprehensive platform designed to manage and optimize learning paths for employees within an organization. By combining full-stack development, data engineering, and machine learning, ELMS helps monitor employee progress, assign personalized learning paths, and recommend courses that enhance performance.
@@ -111,3 +115,5 @@ Push to the branch: git push origin my-new-feature.
 Submit a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+```
